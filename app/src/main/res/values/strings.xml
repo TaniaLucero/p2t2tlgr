@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">p2t2tlgr</string>
+    <string name="titulo1">COLORES</string>
+    <string name="btagregar">AGREGAR COLOR</string>
+    <string name="btmostrar">MOSTRAR COLOR</string>
+    <string name="titulo2">AGREGAR COLOR</string>
+    <string name="titulo3">Ingresa color</string>
+    <string name="btagregarcol">Agregar</string>
+    <string name="btmenu">Menu</string>
+    <string name="btmostrarcol">Mostrar</string>
+</resources>
